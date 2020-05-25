@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project RED</title>
-    <link>https://tituslesley89.com/</link>
+    <link>http://www.tituslesley89.com/</link>
     <description>Recent content on Project RED</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 May 2020 13:49:23 +0600</lastBuildDate>
     
-	<atom:link href="https://tituslesley89.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.tituslesley89.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Prototype 1</title>
-      <link>https://tituslesley89.com/blog/2/</link>
+      <link>http://www.tituslesley89.com/blog/2/</link>
       <pubDate>Wed, 20 May 2020 13:49:23 +0600</pubDate>
       
-      <guid>https://tituslesley89.com/blog/2/</guid>
+      <guid>http://www.tituslesley89.com/blog/2/</guid>
       <description>Our ventilator prototype has been up and breathing under software control for the past few days.</description>
     </item>
     
     <item>
       <title>Inception</title>
-      <link>https://tituslesley89.com/blog/1/</link>
+      <link>http://www.tituslesley89.com/blog/1/</link>
       <pubDate>Wed, 13 May 2020 13:49:23 +0600</pubDate>
       
-      <guid>https://tituslesley89.com/blog/1/</guid>
+      <guid>http://www.tituslesley89.com/blog/1/</guid>
       <description>Our ventilator design is based on a high-speed blower which is capable of providing the pressure and flow necessary to ventilate a patient&#39;s lungs.</description>
     </item>
     
