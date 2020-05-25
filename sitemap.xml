@@ -3,46 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tituslesley89.github.io/project-red.github.io/about/</loc>
+    <loc>https://tituslesley89.com/</loc>
+    <lastmod>2020-05-20T13:49:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tituslesley89.com/blog/2/</loc>
+    <lastmod>2020-05-20T13:49:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tituslesley89.com/blog/1/</loc>
+    <lastmod>2020-05-13T13:49:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tituslesley89.com/about/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tituslesley89.github.io/project-red.github.io/team/</loc>
+    <loc>https://tituslesley89.com/blog/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tituslesley89.github.io/project-red.github.io/blog/</loc>
+    <loc>https://tituslesley89.com/contact/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tituslesley89.github.io/project-red.github.io/contact/</loc>
+    <loc>https://tituslesley89.com/team/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tituslesley89.github.io/project-red.github.io/</loc>
+    <loc>https://tituslesley89.com/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tituslesley89.github.io/project-red.github.io/news/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+    <loc>https://tituslesley89.com/categories/</loc>
   </url>
   
   <url>
-    <loc>https://tituslesley89.github.io/project-red.github.io/search/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tituslesley89.github.io/project-red.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tituslesley89.github.io/project-red.github.io/tags/</loc>
+    <loc>https://tituslesley89.com/tags/</loc>
   </url>
   
 </urlset>
