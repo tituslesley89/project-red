@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.tituslesley89.com/blog/3/</loc>
+    <loc>http://www.tituslesley89.com/</loc>
     <lastmod>2020-05-26T13:49:23+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.tituslesley89.com/</loc>
+    <loc>http://www.tituslesley89.com/blog/3/</loc>
     <lastmod>2020-05-26T13:49:23+06:00</lastmod>
   </url>
   
@@ -28,7 +28,7 @@
   </url>
   
   <url>
-    <loc>http://www.tituslesley89.com/blog/</loc>
+    <loc>http://www.tituslesley89.com/contact/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
   
@@ -38,12 +38,12 @@
   </url>
   
   <url>
-    <loc>http://www.tituslesley89.com/team/edward/</loc>
+    <loc>http://www.tituslesley89.com/donate/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.tituslesley89.com/contact/</loc>
+    <loc>http://www.tituslesley89.com/team/edward/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
   
@@ -58,12 +58,22 @@
   </url>
   
   <url>
-    <loc>http://www.tituslesley89.com/team/</loc>
+    <loc>http://www.tituslesley89.com/partners/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.tituslesley89.com/search/</loc>
+    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.tituslesley89.com/team/</loc>
+    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.tituslesley89.com/blog/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
   
