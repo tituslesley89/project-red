@@ -35,7 +35,35 @@
       <pubDate>Wed, 13 May 2020 13:49:23 +0600</pubDate>
       
       <guid>http://www.tituslesley89.com/blog/1/</guid>
-      <description>Our ventilator design is based on a high-speed blower which is capable of providing the pressure and flow necessary to ventilate a patient&#39;s lungs.</description>
+      <description>Our ventilator design is based on a high-speed blower which is capable of providing the pressure and flow necessaryto ventilate a patient&#39;s lungs.</description>
+    </item>
+    
+    <item>
+      <title>1-Edward Ayarapetian</title>
+      <link>http://www.tituslesley89.com/team/edward/</link>
+      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
+      
+      <guid>http://www.tituslesley89.com/team/edward/</guid>
+      <description>Edward is an embedded systems engineer with over 15 years experience designing products for the commercial, medical, and space industries, and is currently a Senior Engineer at Amazon Lab126.</description>
+    </item>
+    
+    <item>
+      <title>1-ICS</title>
+      <link>http://www.tituslesley89.com/partners/1-ics/</link>
+      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
+      
+      <guid>http://www.tituslesley89.com/partners/1-ics/</guid>
+      <description>Integrated Computer Solution are great at making elegant UX and Software engineering solutions that</description>
+    </item>
+    
+    <item>
+      <title>2 - Mohan</title>
+      <link>http://www.tituslesley89.com/team/mohan/</link>
+      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
+      
+      <guid>http://www.tituslesley89.com/team/mohan/</guid>
+      <description>
+Mohan Gurunathan&#39;s BIO</description>
     </item>
     
     <item>
@@ -66,22 +94,12 @@
     </item>
     
     <item>
-      <title>Edward Ayarapetian</title>
-      <link>http://www.tituslesley89.com/team/edward/</link>
+      <title>Lesley</title>
+      <link>http://www.tituslesley89.com/team/lesley/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>http://www.tituslesley89.com/team/edward/</guid>
-      <description>Edward is an embedded systems engineer with over 15 years experience designing products for the commercial, medical, and space industries, and is currently a Senior Engineer at Amazon Lab126.</description>
-    </item>
-    
-    <item>
-      <title>Mohan Gurunathan</title>
-      <link>http://www.tituslesley89.com/team/mohan/</link>
-      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
-      
-      <guid>http://www.tituslesley89.com/team/mohan/</guid>
-      <description>
-Mohan Gurunathan&#39;s BIO</description>
+      <guid>http://www.tituslesley89.com/team/lesley/</guid>
+      <description>Lesley has 4 year experience in Full-Stack Software development.</description>
     </item>
     
   </channel>
