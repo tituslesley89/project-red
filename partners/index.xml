@@ -12,21 +12,21 @@
     
     
     <item>
-      <title>1-ICS</title>
-      <link>http://www.tituslesley89.com/partners/1-ics/</link>
-      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
-      
-      <guid>http://www.tituslesley89.com/partners/1-ics/</guid>
-      <description>Integrated Computer Solutions (ICS) specializes in delivering brilliant user experiences through a combination of expert</description>
-    </item>
-    
-    <item>
       <title>1-NUVATION</title>
       <link>http://www.tituslesley89.com/partners/2-nuvation/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
       <guid>http://www.tituslesley89.com/partners/2-nuvation/</guid>
       <description>Nuvation Engineering is a world-class electronics product design firm located in Silicon Valley and Waterloo, Canada.</description>
+    </item>
+    
+    <item>
+      <title>2-ICS</title>
+      <link>http://www.tituslesley89.com/partners/1-ics/</link>
+      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
+      
+      <guid>http://www.tituslesley89.com/partners/1-ics/</guid>
+      <description>Integrated Computer Solutions (ICS) specializes in delivering brilliant user experiences through a combination of expert</description>
     </item>
     
   </channel>
