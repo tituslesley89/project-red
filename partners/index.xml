@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Partners on Project RED</title>
-    <link>http://www.tituslesley89.com/partners/</link>
+    <link>http://redventilator.org/partners/</link>
     <description>Recent content in Partners on Project RED</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate>
     
-	<atom:link href="http://www.tituslesley89.com/partners/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://redventilator.org/partners/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>1-NUVATION</title>
-      <link>http://www.tituslesley89.com/partners/2-nuvation/</link>
+      <link>http://redventilator.org/partners/2-nuvation/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>http://www.tituslesley89.com/partners/2-nuvation/</guid>
+      <guid>http://redventilator.org/partners/2-nuvation/</guid>
       <description>Nuvation Engineering is a world-class electronics product design firm located in Silicon Valley and Waterloo, Canada.</description>
     </item>
     
     <item>
       <title>2-ICS</title>
-      <link>http://www.tituslesley89.com/partners/1-ics/</link>
+      <link>http://redventilator.org/partners/1-ics/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>http://www.tituslesley89.com/partners/1-ics/</guid>
+      <guid>http://redventilator.org/partners/1-ics/</guid>
       <description>Integrated Computer Solutions (ICS) specializes in delivering brilliant user experiences through a combination of expert</description>
     </item>
     
