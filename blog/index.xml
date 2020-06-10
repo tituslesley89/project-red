@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Updates on Project RED</title>
-    <link>http://redventilator.org/blog/</link>
+    <link>https://redventilator.org/blog/</link>
     <description>Recent content in Updates on Project RED</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate>
     
-	<atom:link href="http://redventilator.org/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://redventilator.org/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PRVC Demonstration</title>
-      <link>http://redventilator.org/blog/3/</link>
+      <link>https://redventilator.org/blog/3/</link>
       <pubDate>Tue, 26 May 2020 13:49:23 +0600</pubDate>
       
-      <guid>http://redventilator.org/blog/3/</guid>
+      <guid>https://redventilator.org/blog/3/</guid>
       <description>OK we wanted to post another update showing a bit more about how our prototype ventilator is working.</description>
     </item>
     
     <item>
       <title>Alpha Prototype</title>
-      <link>http://redventilator.org/blog/2/</link>
+      <link>https://redventilator.org/blog/2/</link>
       <pubDate>Wed, 20 May 2020 13:49:23 +0600</pubDate>
       
-      <guid>http://redventilator.org/blog/2/</guid>
+      <guid>https://redventilator.org/blog/2/</guid>
       <description>Our ventilator prototype has been up and breathing under software control for the past few days.</description>
     </item>
     
     <item>
       <title>Concept</title>
-      <link>http://redventilator.org/blog/1/</link>
+      <link>https://redventilator.org/blog/1/</link>
       <pubDate>Wed, 13 May 2020 13:49:23 +0600</pubDate>
       
-      <guid>http://redventilator.org/blog/1/</guid>
+      <guid>https://redventilator.org/blog/1/</guid>
       <description>Our ventilator design is based on a high-speed blower which is capable of providing the pressure and flow necessaryto ventilate a patient&#39;s lungs.</description>
     </item>
     

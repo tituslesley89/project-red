@@ -2,138 +2,138 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project RED</title>
-    <link>http://redventilator.org/</link>
+    <link>https://redventilator.org/</link>
     <description>Recent content on Project RED</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 May 2020 13:49:23 +0600</lastBuildDate>
     
-	<atom:link href="http://redventilator.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://redventilator.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PRVC Demonstration</title>
-      <link>http://redventilator.org/blog/3/</link>
+      <link>https://redventilator.org/blog/3/</link>
       <pubDate>Tue, 26 May 2020 13:49:23 +0600</pubDate>
       
-      <guid>http://redventilator.org/blog/3/</guid>
+      <guid>https://redventilator.org/blog/3/</guid>
       <description>OK we wanted to post another update showing a bit more about how our prototype ventilator is working.</description>
     </item>
     
     <item>
       <title>Alpha Prototype</title>
-      <link>http://redventilator.org/blog/2/</link>
+      <link>https://redventilator.org/blog/2/</link>
       <pubDate>Wed, 20 May 2020 13:49:23 +0600</pubDate>
       
-      <guid>http://redventilator.org/blog/2/</guid>
+      <guid>https://redventilator.org/blog/2/</guid>
       <description>Our ventilator prototype has been up and breathing under software control for the past few days.</description>
     </item>
     
     <item>
       <title>Concept</title>
-      <link>http://redventilator.org/blog/1/</link>
+      <link>https://redventilator.org/blog/1/</link>
       <pubDate>Wed, 13 May 2020 13:49:23 +0600</pubDate>
       
-      <guid>http://redventilator.org/blog/1/</guid>
+      <guid>https://redventilator.org/blog/1/</guid>
       <description>Our ventilator design is based on a high-speed blower which is capable of providing the pressure and flow necessaryto ventilate a patient&#39;s lungs.</description>
     </item>
     
     <item>
       <title>1 - Mohan</title>
-      <link>http://redventilator.org/team/mohan/</link>
+      <link>https://redventilator.org/team/mohan/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>http://redventilator.org/team/mohan/</guid>
+      <guid>https://redventilator.org/team/mohan/</guid>
       <description>Mohan is an Electrical and Systems engineer with over 20 years of experience designing electronics for awide variety of markets and applications, including optical networking, robotics, medical devices, spacesystems, scientific equipment, and more.</description>
     </item>
     
     <item>
       <title>1-NUVATION</title>
-      <link>http://redventilator.org/partners/2-nuvation/</link>
+      <link>https://redventilator.org/partners/2-nuvation/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>http://redventilator.org/partners/2-nuvation/</guid>
+      <guid>https://redventilator.org/partners/2-nuvation/</guid>
       <description>Nuvation Engineering is a world-class electronics product design firm located in Silicon Valley and Waterloo, Canada.</description>
     </item>
     
     <item>
       <title>2-Edward Ayarapetian</title>
-      <link>http://redventilator.org/team/edward/</link>
+      <link>https://redventilator.org/team/edward/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>http://redventilator.org/team/edward/</guid>
+      <guid>https://redventilator.org/team/edward/</guid>
       <description>Edward is an embedded systems engineer with over 15 years experience designing products for the commercial, medical, and</description>
     </item>
     
     <item>
       <title>2-ICS</title>
-      <link>http://redventilator.org/partners/1-ics/</link>
+      <link>https://redventilator.org/partners/1-ics/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>http://redventilator.org/partners/1-ics/</guid>
+      <guid>https://redventilator.org/partners/1-ics/</guid>
       <description>Integrated Computer Solutions (ICS) specializes in delivering brilliant user experiences through a combination of expert</description>
     </item>
     
     <item>
       <title>3-Mathew</title>
-      <link>http://redventilator.org/team/mathew_bailey/</link>
+      <link>https://redventilator.org/team/mathew_bailey/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>http://redventilator.org/team/mathew_bailey/</guid>
+      <guid>https://redventilator.org/team/mathew_bailey/</guid>
       <description>Matthew Bailey is a Partner &amp;amp; VP Product Engineering at Design1st, a product design and engineeringfirm based in Ottawa, Canada.</description>
     </item>
     
     <item>
       <title>4-David Laone</title>
-      <link>http://redventilator.org/team/david_laone/</link>
+      <link>https://redventilator.org/team/david_laone/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>http://redventilator.org/team/david_laone/</guid>
+      <guid>https://redventilator.org/team/david_laone/</guid>
       <description>David Laone is an embedded software consultant living and</description>
     </item>
     
     <item>
       <title>5-Murart</title>
-      <link>http://redventilator.org/team/murat/</link>
+      <link>https://redventilator.org/team/murat/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>http://redventilator.org/team/murat/</guid>
+      <guid>https://redventilator.org/team/murat/</guid>
       <description>Murat hails from the great land of Canada, but for nearly 15 years has been developing high qualityembedded software in Silicon Valley.</description>
     </item>
     
     <item>
       <title>6-David Kennedy</title>
-      <link>http://redventilator.org/team/david_kennedy/</link>
+      <link>https://redventilator.org/team/david_kennedy/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>http://redventilator.org/team/david_kennedy/</guid>
+      <guid>https://redventilator.org/team/david_kennedy/</guid>
       <description>David Kennedy has had a varied career in software for over 20 years, including graphical software, embedded systems, and</description>
     </item>
     
     <item>
       <title>7-Alex Leblanc</title>
-      <link>http://redventilator.org/team/alex_leblanc/</link>
+      <link>https://redventilator.org/team/alex_leblanc/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>http://redventilator.org/team/alex_leblanc/</guid>
+      <guid>https://redventilator.org/team/alex_leblanc/</guid>
       <description>Alex is a hardware designer from Waterloo, ON, Canada, with an interest in power electronics, analog electronics, electromechanics, and mechatronics.</description>
     </item>
     
     <item>
       <title>8-Charlie</title>
-      <link>http://redventilator.org/team/charie/</link>
+      <link>https://redventilator.org/team/charie/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>http://redventilator.org/team/charie/</guid>
+      <guid>https://redventilator.org/team/charie/</guid>
       <description>After a PhD in physical chemistry, Charlie Wartnaby has spent 25 years in automotive software, with wide-ranging</description>
     </item>
     
     <item>
       <title>9-Lesley</title>
-      <link>http://redventilator.org/team/lesley/</link>
+      <link>https://redventilator.org/team/lesley/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>http://redventilator.org/team/lesley/</guid>
+      <guid>https://redventilator.org/team/lesley/</guid>
       <description>Lesley has 4 year experience in Full-Stack Software development.</description>
     </item>
     
