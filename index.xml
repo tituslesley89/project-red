@@ -6,10 +6,19 @@
     <description>Recent content on Project RED</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2020 13:49:23 +0600</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2020 13:49:23 +0600</lastBuildDate>
     
 	<atom:link href="https://redventilator.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FiO2 Mixing Demonstration</title>
+      <link>https://redventilator.org/blog/4/</link>
+      <pubDate>Fri, 12 Jun 2020 13:49:23 +0600</pubDate>
+      
+      <guid>https://redventilator.org/blog/4/</guid>
+      <description>Hi all, today is a big milestone for our ventilator development.</description>
+    </item>
     
     <item>
       <title>PRVC Demonstration</title>
