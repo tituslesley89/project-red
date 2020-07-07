@@ -6,10 +6,19 @@
     <description>Recent content on Project RED</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2020 13:49:23 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2020 13:49:23 +0600</lastBuildDate>
     
 	<atom:link href="https://redventilator.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Prototype Render</title>
+      <link>https://redventilator.org/blog/6/</link>
+      <pubDate>Mon, 06 Jul 2020 13:49:23 +0600</pubDate>
+      
+      <guid>https://redventilator.org/blog/6/</guid>
+      <description>Hello Project Red supporters, we have a concept drawing of what we are planning for our ventilator design.</description>
+    </item>
     
     <item>
       <title>UI/UX Design</title>
