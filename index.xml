@@ -148,10 +148,10 @@
     
     <item>
       <title>1-NUVATION</title>
-      <link>https://redventilator.org/partners/2-nuvation/</link>
+      <link>https://redventilator.org/partners/1-nuvation/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>https://redventilator.org/partners/2-nuvation/</guid>
+      <guid>https://redventilator.org/partners/1-nuvation/</guid>
       <description>Nuvation Engineering is a world-class electronics product design firm located in Silicon Valley and Waterloo, Canada.</description>
     </item>
     
@@ -229,11 +229,47 @@
     
     <item>
       <title>2-ICS</title>
-      <link>https://redventilator.org/partners/1-ics/</link>
+      <link>https://redventilator.org/partners/2-ics/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>https://redventilator.org/partners/1-ics/</guid>
-      <description>Integrated Computer Solutions (ICS) specializes in delivering brilliant user experiences through a combination of expert</description>
+      <guid>https://redventilator.org/partners/2-ics/</guid>
+      <description>Integrated Computer Solutions (ICS) specializes in delivering brilliant user experiences through a combination of expertUI/UX design and software engineering.</description>
+    </item>
+    
+    <item>
+      <title>3-PAAILA</title>
+      <link>https://redventilator.org/partners/3-paaila/</link>
+      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
+      
+      <guid>https://redventilator.org/partners/3-paaila/</guid>
+      <description>Paaila Technology is a unique and innovative Robotics and AIcompany founded in Kathmandu, Nepal.</description>
+    </item>
+    
+    <item>
+      <title>4-POLYSPECTRA</title>
+      <link>https://redventilator.org/partners/4-polyspectra/</link>
+      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
+      
+      <guid>https://redventilator.org/partners/4-polyspectra/</guid>
+      <description>Polyspectra is an additive manufacturing startup in Berkeley,California, which is bringing to market an advanced newpolymer discovered during PhD research at CalTech.</description>
+    </item>
+    
+    <item>
+      <title>5-FORMLABS</title>
+      <link>https://redventilator.org/partners/5-formlabs/</link>
+      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
+      
+      <guid>https://redventilator.org/partners/5-formlabs/</guid>
+      <description>Formlabs is a 3D printing technology developer and printermanufacturer based in Somerville, Massachusetts.</description>
+    </item>
+    
+    <item>
+      <title>6-PRONELLO</title>
+      <link>https://redventilator.org/partners/6-pronello/</link>
+      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
+      
+      <guid>https://redventilator.org/partners/6-pronello/</guid>
+      <description>Pronello Competition Research is an Argentinian research and development firm founded by one of Argentina’s leadingengineers, Sr.</description>
     </item>
     
   </channel>
