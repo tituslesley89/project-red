@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://redventilator.org/blog/7/</loc>
+    <lastmod>2020-10-07T13:49:23+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://redventilator.org/</loc>
-    <lastmod>2020-07-06T13:49:23+06:00</lastmod>
+    <lastmod>2020-10-07T13:49:23+06:00</lastmod>
   </url>
   
   <url>
@@ -83,7 +88,7 @@
   </url>
   
   <url>
-    <loc>https://redventilator.org/partners/1-nuvation/</loc>
+    <loc>https://redventilator.org/partners/1-ics/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
   
@@ -128,12 +133,12 @@
   </url>
   
   <url>
-    <loc>https://redventilator.org/partners/2-ics/</loc>
+    <loc>https://redventilator.org/partners/2-paaila/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://redventilator.org/partners/3-paaila/</loc>
+    <loc>https://redventilator.org/partners/3-nuvation/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
   
@@ -148,7 +153,12 @@
   </url>
   
   <url>
-    <loc>https://redventilator.org/partners/6-pronello/</loc>
+    <loc>https://redventilator.org/partners/6-hlhprototypes/</loc>
+    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://redventilator.org/partners/7-pronello/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
   

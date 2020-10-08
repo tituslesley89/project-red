@@ -2,12 +2,12 @@
 <html lang="en-us"><head>
   <meta charset="utf-8">
   
-  <title>Project RED | Updates</title>
+  <title>Project RED | CAD Design Renders</title>
   
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="this is meta description">
+  <meta name="description" content="CAD Design Renders">
   <meta name="generator" content="Hugo 0.74.3" />
 
   <!-- plugins -->
@@ -121,73 +121,147 @@
 </header>
 <!-- /navigation -->
 
-
 <section class="pt-4">
   <div class="container">
-    <div class="row pb-3">
-      <div class="col-12">
-        <h2>Updates</h2>
-      </div>
-    </div>
     <div class="row">
-      <div class="col-lg-12 mb-5 mb-lg-0">
-        <div class="row">
-          
-          
-          <div class="col-md-6 mb-4">
-    <article class="card">
+      <div class="col-lg-12 mx-auto">
         
-        <a href="https://redventilator.org/blog/1/">
-            <img src="https://redventilator.org/images/updates/1_concept.png" class="card-img-top rounded" alt="Concept">
-        </a>
-        
-        <div class="card-body px-0">
-        
-        <a href="https://redventilator.org/blog/1/" class="h5 d-block my-3 font-weight-bold font-size-23">Concept</a>
+        <h2>CAD Design Renders</h2>
         <div class="mb-3 post-meta">
-            
-            <span>13 May 2020</span>
-            
-        </div>
-        <p class="card-text">Our ventilator design is based on a high-speed blower which is capable of providing the pressure and flow necessaryto ventilate a patient's lungs.</p>
-        <a href="https://redventilator.org/blog/1/" class="btn btn-outline-primary">read more</a>
-        </div>
-    </article>
-</div>
+          
+          <span>07 October 2020</span>
           
         </div>
-      </div>
-      
-      
-      <div class="col-12 mt-5">
         
-<ul class="pagination">
-  <li class="page-item">
-    <a href="/blog/" class="page-link" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
-  </li>
-  <li class="page-item">
-    <a href="/blog/" class="page-link" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
-  </li>
-  <li class="page-item">
-    <a class="page-link" href="/blog/">1</a>
-  </li>
-  <li class="page-item active">
-    <a class="page-link" href="/blog/page/2/">2</a>
-  </li>
-  <li class="page-item disabled">
-    <a  class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
-  </li>
-  <li class="page-item">
-    <a href="/blog/page/2/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
-  </li>
-</ul>
+        <img src="https://redventilator.org/images/updates/CAD_render.png" class="img-fluid w-100 mb-4" alt="CAD Design Renders">
+        
+        <div class="content mb-5">
+          
+<p>
+    Hello Project RED supporters!
 
+    Apologies that we have not issued a project update in a while, but we have been very busy with ventilator
+    development! And a lot has happened in the past three months.
+
+    After three months of close work with our friends at Paaila Technology, we have finished the complete mechanical CAD
+    design of the RED-1 ventilator. Below are some pictures showing the external and internal appearance of the
+    ventilator. We were able to achieve an appearance and style very similar to the concept drawing we started with. We
+    have also partnered with a manufacturing company in China (HLH Prototypes) who will be making the first ventilator
+    prototypes for us based on this design. We've already released parts to them to start producing the first few
+    ventilators.
+
+</p>
+
+<img src="/images/updates/7/image1.png" />
+<img src="/images/updates/7/image3.png" />
+<img src="/images/updates/7/image6.jpg" />
+<img src="/images/updates/7/image11.png" />
+
+<p>
+    (For a more detailed walk through the internals of the ventilator, jump ahead to the next section)
+    In August, we built three new bench-top ventilator systems for use in software development. A picture of the three
+    systems, and a video of one of them up and running, are below.
+</p>
+
+<img class="img-fluid rounded" src="/images/updates/7/image2.jpg" />
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/13sj_DqRPNY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+
+<p>
+    Also, software development is going extremely well. We worked closely with ICS to come up with a flexible,
+    extensible communication protocol between the ventilator microprocessor and the GUI processor. This protocol allows
+    us to easily re-configure the GUI design to accommodate new modes of ventilation in the future. Initially, we plan
+    to implement Pressure Control Ventilation (PCV) and Pressure Regulated Volume Control (PRVC) modes, but soon after
+    we plan to deploy additional modes such as PSV and SIMV.
+
+    A video of our GUI, running and plotting real data gathered from one of our prototypes, is below:
+</p>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/am4B--JkNgo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+
+<p>
+    By November we expect to have several fully functional ventilators running in the actual ventilator enclosure!
+</p>
+
+<h3>Ventilator Design Walkthrough</h3>
+
+<p>
+    We developed the mechanical internals of the ventilator in a modular fashion. There are custom blocks to handle
+    specific functions, such as air filtering, O2 metering, gas mixing, safety valves, etc. We also focused heavily on
+    ease-of-manufacturing. The major components of the design are shown below:
+</p>
+
+<img src="/images/updates/7/image14.png" />
+
+<p>The Blower Module, O2 Manifold, Gas Mixing Manifold, Insp Manifold, and Exp Manifold are all custom sub-assemblies
+    designed by Project RED engineers. Some closer views of these design blocks are provided below.</p>
+
+<img src="/images/updates/7/image10.png" />
+<img src="/images/updates/7/image9.png" />
+<img src="/images/updates/7/image13.png" />
+
+<p>We placed a lot of thought into making the ventilator easy to build. A key feature in this regard is that all of the
+    Inspiratory components are located on a removable metal “tray”:
+</p>
+
+<img src="/images/updates/7/image8.png" />
+
+<p>
+    The tray has pressed-in (PEM) nuts and standoffs, so a technician can simply screw down the sub-modules to the tray,
+    attach tubes and clamps, and then drop the tray into the enclosure shell. The enclosure shell also has pressed-in
+    standoffs for accepting the tray. The enclosure shell is made of 2mm thick aluminum sheet metal, bent and
+    seam-welded together, so it should be extremely rugged. The enclosure is shown below:
+</p>
+<img src="/images/updates/7/image1.png" />
+
+<p>
+    Another important feature of the design is the “Expiratory Cartridge.” The Expiratory cartridge handles all exhaled
+    gas from a patient, and lives on a sliding rail so it can be removed from the ventilator. This is because exhaled
+    gas from the patient may be contaminated; therefore, it is good practice to keep the expiratory circuits isolated
+    from the inspiratory circuits, to prevent contamination of the ventilator. (Normally an external bacterial/viral
+    filter should also be used on the expiratory limb of the patient circuit). All expired gases are contained within
+    tubing inside the Expiratory cartridge, and then filtered again before leaving the cartridge. In case there are
+    small leaks within the tubing in the cartridge, there is a sheet metal cover for the cartridge which greatly reduces
+    the risk of contaminants entering the upper part of the ventilator. For decontamination purposes, the cartridge can
+    be detached from the ventilator and sent for cleaning.
+
+    Since the Expiratory cartridge has electronics on it, we had to develop a solution for mating/de-mating an
+    electronic connector when the cartridge was inserted or removed. Maintaining alignment of the connector halves was a
+    tricky problem, but we believe we have a solution that will work, and we will be testing it when the first prototype
+    units come back next month.
+
+    The Expiratory cartridge is shown (both with and without cover) below.
+</p>
+
+<img src="/images/updates/7/image7.png" />
+
+<p>
+    Finally, there is a simple subassembly for the front-cover, which consists of sheet metal, two speakers, an LED
+    light bar, the LCD touchscreen, and some simple brackets:
+</p>
+
+<img src="/images/updates/7/image4.png" />
+
+<p>
+    All in all we are very pleased with how the design has turned out, and we can’t wait to test the first few units in
+    November. The best news, perhaps, is that after pricing out most of the custom mechanical parts, we are quite
+    confident that this ventilator can be built for well under $4000 USD, even at relatively small quantities (100 units
+    or less) !
+</p>
+        </div>
 
       </div>
     </div>
   </div>
 </section>
-
 
 
 

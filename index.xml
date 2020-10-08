@@ -6,10 +6,19 @@
     <description>Recent content on Project RED</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jul 2020 13:49:23 +0600</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2020 13:49:23 +0600</lastBuildDate>
     
 	<atom:link href="https://redventilator.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CAD Design Renders</title>
+      <link>https://redventilator.org/blog/7/</link>
+      <pubDate>Wed, 07 Oct 2020 13:49:23 +0600</pubDate>
+      
+      <guid>https://redventilator.org/blog/7/</guid>
+      <description>Hello Project RED supporters!Apologies that we have not issued a project update in a while, but we have been very busy with ventilatordevelopment!</description>
+    </item>
     
     <item>
       <title>Prototype Render</title>
@@ -147,12 +156,12 @@
     </item>
     
     <item>
-      <title>1-NUVATION</title>
-      <link>https://redventilator.org/partners/1-nuvation/</link>
+      <title>1-ICS</title>
+      <link>https://redventilator.org/partners/1-ics/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>https://redventilator.org/partners/1-nuvation/</guid>
-      <description>Nuvation Engineering is a world-class electronics product design firm located in Silicon Valley and Waterloo, Canada.</description>
+      <guid>https://redventilator.org/partners/1-ics/</guid>
+      <description>Integrated Computer Solutions (ICS) specializes in delivering brilliant user experiences through a combination of expertUI/UX design and software engineering.</description>
     </item>
     
     <item>
@@ -228,21 +237,21 @@
     </item>
     
     <item>
-      <title>2-ICS</title>
-      <link>https://redventilator.org/partners/2-ics/</link>
+      <title>2-PAAILA</title>
+      <link>https://redventilator.org/partners/2-paaila/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>https://redventilator.org/partners/2-ics/</guid>
-      <description>Integrated Computer Solutions (ICS) specializes in delivering brilliant user experiences through a combination of expertUI/UX design and software engineering.</description>
+      <guid>https://redventilator.org/partners/2-paaila/</guid>
+      <description>Paaila Technology is a unique and innovative Robotics and AIcompany founded in Kathmandu, Nepal.</description>
     </item>
     
     <item>
-      <title>3-PAAILA</title>
-      <link>https://redventilator.org/partners/3-paaila/</link>
+      <title>3-NUVATION</title>
+      <link>https://redventilator.org/partners/3-nuvation/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>https://redventilator.org/partners/3-paaila/</guid>
-      <description>Paaila Technology is a unique and innovative Robotics and AIcompany founded in Kathmandu, Nepal.</description>
+      <guid>https://redventilator.org/partners/3-nuvation/</guid>
+      <description>Nuvation Engineering is a world-class electronics product design firm located in Silicon Valley and Waterloo, Canada.</description>
     </item>
     
     <item>
@@ -264,11 +273,20 @@
     </item>
     
     <item>
-      <title>6-PRONELLO</title>
-      <link>https://redventilator.org/partners/6-pronello/</link>
+      <title>7-HLHPROTOTYPES</title>
+      <link>https://redventilator.org/partners/6-hlhprototypes/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>https://redventilator.org/partners/6-pronello/</guid>
+      <guid>https://redventilator.org/partners/6-hlhprototypes/</guid>
+      <description>HLH Prototypes is a high-quality rapid prototyping companyin Shenzhen, China.</description>
+    </item>
+    
+    <item>
+      <title>7-PRONELLO</title>
+      <link>https://redventilator.org/partners/7-pronello/</link>
+      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
+      
+      <guid>https://redventilator.org/partners/7-pronello/</guid>
       <description>Pronello Competition Research is an Argentinian research and development firm founded by one of Argentina’s leadingengineers, Sr.</description>
     </item>
     
