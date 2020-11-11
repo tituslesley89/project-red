@@ -6,10 +6,19 @@
     <description>Recent content on Project RED</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2020 13:49:23 +0600</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2020 13:49:23 +0600</lastBuildDate>
     
 	<atom:link href="https://redventilator.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First Sets of Parts Manufactured</title>
+      <link>https://redventilator.org/blog/8/</link>
+      <pubDate>Tue, 10 Nov 2020 13:49:23 +0600</pubDate>
+      
+      <guid>https://redventilator.org/blog/8/</guid>
+      <description>Hello Project RED supporters,We’ve completed fabricating the first 4 sets of “pre-production” ventilator parts with our manufacturing partner,HLH Prototypes, and the fabrication went off withalmost zero issues!</description>
+    </item>
     
     <item>
       <title>CAD Design Complete!</title>
