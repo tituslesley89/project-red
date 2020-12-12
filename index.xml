@@ -6,10 +6,19 @@
     <description>Recent content on Project RED</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Nov 2020 13:49:23 +0600</lastBuildDate>
+    <lastBuildDate>Fri, 11 Dec 2020 13:49:23 +0600</lastBuildDate>
     
 	<atom:link href="https://redventilator.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First Demo in Chassis</title>
+      <link>https://redventilator.org/blog/11/</link>
+      <pubDate>Fri, 11 Dec 2020 13:49:23 +0600</pubDate>
+      
+      <guid>https://redventilator.org/blog/11/</guid>
+      <description>Hi Project RED supporters,After ~8 months of development, we have a demonstration of the RED-1 ventilator operating in its production chassisform!</description>
+    </item>
     
     <item>
       <title>First 2 Ventilators Built!</title>
@@ -27,15 +36,6 @@
       
       <guid>https://redventilator.org/blog/10/</guid>
       <description>We wanted to give a special acknowledgement to another non-profit team that is working on a low-cost ventilator, Respiraworks.</description>
-    </item>
-    
-    <item>
-      <title>First Demo in Chassis</title>
-      <link>https://redventilator.org/blog/11/</link>
-      <pubDate>Sun, 15 Nov 2020 13:49:23 +0600</pubDate>
-      
-      <guid>https://redventilator.org/blog/11/</guid>
-      <description>Hi Project RED supporters,After ~8 months of development, we have a demonstration of the RED-1 ventilator operating in its production chassisform!</description>
     </item>
     
     <item>
