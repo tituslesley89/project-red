@@ -6,18 +6,14 @@
     <description>Recent content in Team on Project RED</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate>
-    
-	<atom:link href="https://redventilator.org/hidden_team/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://redventilator.org/hidden_team/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>01 - Mohan</title>
       <link>https://redventilator.org/hidden_team/1_mohan/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
       <guid>https://redventilator.org/hidden_team/1_mohan/</guid>
-      <description>Mohan is an Electrical and Systems engineer with over 20 years of experience designing electronics for awide variety of markets and applications, including optical networking, robotics, medical devices, spacesystems, scientific equipment, and more.</description>
+      <description>Mohan is an Electrical and Systems engineer with over 20 years of experience designing electronics for a wide variety of markets and applications, including optical networking, robotics, medical devices, space systems, scientific equipment, and more.</description>
     </item>
     
     <item>
@@ -116,7 +112,7 @@
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
       <guid>https://redventilator.org/hidden_team/12_mathew_bailey/</guid>
-      <description>Matthew Bailey is a Partner &amp;amp; VP Product Engineering at Design1st, a product design and engineeringfirm based in Ottawa, Canada.</description>
+      <description>Matthew Bailey is a Partner &amp;amp; VP Product Engineering at Design1st, a product design and engineering firm based in Ottawa, Canada.</description>
     </item>
     
     <item>
@@ -161,7 +157,7 @@
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
       <guid>https://redventilator.org/hidden_team/17_lesley/</guid>
-      <description>Lesley has 4 year experience in Full-Stack Software development.</description>
+      <description>Lesley has 4 year experience in Full-Stack Software development. He was a Full-Stack Software at Thomson Reuters, Eagan, MN from 2016-2018.</description>
     </item>
     
   </channel>
